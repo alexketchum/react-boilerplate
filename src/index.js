@@ -3,8 +3,8 @@ import ReactDOM from 'react-dom';
 import WebFont from 'webfontloader';
 import App from './components/App/App';
 
-import 'normalize.css';
-import './index.css';
+import './styles/reset.css';
+import './styles/index.css';
 
 WebFont.load({
     google: {

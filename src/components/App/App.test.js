@@ -1,6 +1,7 @@
 import React from 'react';
 import { shallow } from 'enzyme';
-import App, { AppContainer } from './App';
+import App from './App';
+import { AppContainer } from '../StyledComponents';
 
 describe('App', () => {
     it('should contain AppContainer', () => {
