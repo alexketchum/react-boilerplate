@@ -1,6 +1,6 @@
-import * as React from 'react';
-import * as ReactDOM from 'react-dom';
-import * as WebFont from 'webfontloader';
+import React from 'react';
+import ReactDOM from 'react-dom';
+import WebFont from 'webfontloader';
 import App from './components/App/App';
 
 import './styles/reset.css';
